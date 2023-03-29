@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  display: table;
+  border-collapse: collapse;
+}
+
+thead {
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+th, td {
+  padding: 4px;
+}
